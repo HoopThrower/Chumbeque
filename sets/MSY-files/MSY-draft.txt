@@ -1,0 +1,529 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Beleaguered Conquistador",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Vampire Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/0.png"
+			}
+		},
+		{
+			"name": "Opinionated Logician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/1.png"
+			}
+		},
+		{
+			"name": "Revenant of the Depths",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{B}",
+			"type": "Creature — Leviathan Zombie",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/2.png"
+			}
+		},
+		{
+			"name": "Steadfast Outsider",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/3.png"
+			}
+		},
+		{
+			"name": "Digital Asp",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/4.png"
+			}
+		},
+		{
+			"name": "Feudal Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/5.png"
+			}
+		},
+		{
+			"name": "Smoke",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/6.png"
+			}
+		},
+		{
+			"name": "Last Expedient",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/7.png"
+			}
+		},
+		{
+			"name": "Static Shock",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/8.png"
+			}
+		},
+		{
+			"name": "Axolotl Auspices",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/9.png"
+			}
+		},
+		{
+			"name": "Halodrinker Cabalist",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Angel Cleric",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/10.png"
+			}
+		},
+		{
+			"name": "Greeter of the Great Ship",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/11.png"
+			}
+		},
+		{
+			"name": "Uncanny Reminder",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment Creature — Graveborn",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/12.png"
+			}
+		},
+		{
+			"name": "Anchimayen Gaggle",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/13.png"
+			}
+		},
+		{
+			"name": "Dracothallid",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fungus Dragon",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/14.png"
+			}
+		},
+		{
+			"name": "Akroma Vengeant",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/15.png"
+			}
+		},
+		{
+			"name": "Pansophical Sphinx",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/16.png"
+			}
+		},
+		{
+			"name": "Diver of the Fifth Sphere",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Phyrexian Scout",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/17.png"
+			}
+		},
+		{
+			"name": "Volcanic Camahueto",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Ox",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/18.png"
+			}
+		},
+		{
+			"name": "Otherworldly Hydra",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/19.png"
+			}
+		},
+		{
+			"name": "Border Control",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/20.png"
+			}
+		},
+		{
+			"name": "Ratify",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/21.png"
+			}
+		},
+		{
+			"name": "Necropolitics",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/22.png"
+			}
+		},
+		{
+			"name": "Follow Suit",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/23.png"
+			}
+		},
+		{
+			"name": "Soulful Summoning",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/24.png"
+			}
+		},
+		{
+			"name": "Tournament of the Gods",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/25.png"
+			}
+		},
+		{
+			"name": "Time Dilation",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/26.png"
+			}
+		},
+		{
+			"name": "Upside Down Night",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/27.png"
+			}
+		},
+		{
+			"name": "Rune Thief's Persona",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Enchantment — Aura Persona",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/28.png"
+			}
+		},
+		{
+			"name": "Wetland Wonders",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/29.png"
+			}
+		},
+		{
+			"name": "Smokestack Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{R/W}{G/U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/30.png"
+			}
+		},
+		{
+			"name": "Transpose",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/31.png"
+			}
+		},
+		{
+			"name": "Ms. Wcabknfl, the Visitor",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Legendary Creature — Guest",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/32.png"
+			}
+		},
+		{
+			"name": "For the Sake of Argument",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/33.png"
+			}
+		},
+		{
+			"name": "Everflowing Chariot",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{X}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/34.png"
+			}
+		},
+		{
+			"name": "Mox Geode",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/35.png"
+			}
+		},
+		{
+			"name": "Scion of Nothingness",
+			"rarity": "rare",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Creature — Elemental Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/36.png"
+			}
+		},
+		{
+			"name": "Provincial Constitution",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/37.png"
+			}
+		},
+		{
+			"name": "Mindscape",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/38.png"
+			}
+		},
+		{
+			"name": "Development Center",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/MSY-files/img/39.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Halodrinker Cabalist
+	2 Greeter of the Great Ship
+	2 Uncanny Reminder
+	2 Anchimayen Gaggle
+	2 Dracothallid
+	2 Akroma Vengeant
+	2 Pansophical Sphinx
+	2 Diver of the Fifth Sphere
+	2 Volcanic Camahueto
+	2 Otherworldly Hydra
+	2 Border Control
+	2 Ratify
+	2 Necropolitics
+	2 Follow Suit
+	2 Soulful Summoning
+	2 Tournament of the Gods
+	2 Time Dilation
+	2 Upside Down Night
+	2 Rune Thief's Persona
+	2 Wetland Wonders
+	2 Ms. Wcabknfl, the Visitor
+	2 For the Sake of Argument
+	2 Scion of Nothingness
+	2 Provincial Constitution
+	2 Development Center
+[uncommon(3)]
+	4 Beleaguered Conquistador
+	4 Opinionated Logician
+	4 Revenant of the Depths
+	4 Steadfast Outsider
+	4 Digital Asp
+	4 Feudal Charm
+	4 Smoke
+	4 Last Expedient
+	4 Static Shock
+	4 Axolotl Auspices
+	4 Smokestack Stalker
+	4 Transpose
+	4 Everflowing Chariot
+	4 Mox Geode
+	4 Mindscape
+[common(7)]
+[foil(1)]
+	6 Beleaguered Conquistador
+	6 Opinionated Logician
+	6 Revenant of the Depths
+	6 Steadfast Outsider
+	6 Digital Asp
+	6 Feudal Charm
+	6 Smoke
+	6 Last Expedient
+	6 Static Shock
+	6 Axolotl Auspices
+	2 Halodrinker Cabalist
+	2 Greeter of the Great Ship
+	2 Uncanny Reminder
+	2 Anchimayen Gaggle
+	2 Dracothallid
+	2 Akroma Vengeant
+	2 Pansophical Sphinx
+	2 Diver of the Fifth Sphere
+	2 Volcanic Camahueto
+	2 Otherworldly Hydra
+	2 Border Control
+	2 Ratify
+	2 Necropolitics
+	2 Follow Suit
+	2 Soulful Summoning
+	2 Tournament of the Gods
+	2 Time Dilation
+	2 Upside Down Night
+	2 Rune Thief's Persona
+	2 Wetland Wonders
+	6 Smokestack Stalker
+	6 Transpose
+	2 Ms. Wcabknfl, the Visitor
+	2 For the Sake of Argument
+	6 Everflowing Chariot
+	6 Mox Geode
+	2 Scion of Nothingness
+	2 Provincial Constitution
+	6 Mindscape
+	2 Development Center
+[wildcard(1)]
+	15 Beleaguered Conquistador
+	15 Opinionated Logician
+	15 Revenant of the Depths
+	15 Steadfast Outsider
+	15 Digital Asp
+	15 Feudal Charm
+	15 Smoke
+	15 Last Expedient
+	15 Static Shock
+	15 Axolotl Auspices
+	7 Halodrinker Cabalist
+	7 Greeter of the Great Ship
+	7 Uncanny Reminder
+	7 Anchimayen Gaggle
+	7 Dracothallid
+	7 Akroma Vengeant
+	7 Pansophical Sphinx
+	7 Diver of the Fifth Sphere
+	7 Volcanic Camahueto
+	7 Otherworldly Hydra
+	7 Border Control
+	7 Ratify
+	7 Necropolitics
+	7 Follow Suit
+	7 Soulful Summoning
+	7 Tournament of the Gods
+	7 Time Dilation
+	7 Upside Down Night
+	7 Rune Thief's Persona
+	7 Wetland Wonders
+	15 Smokestack Stalker
+	15 Transpose
+	7 Ms. Wcabknfl, the Visitor
+	7 For the Sake of Argument
+	15 Everflowing Chariot
+	15 Mox Geode
+	7 Scion of Nothingness
+	7 Provincial Constitution
+	15 Mindscape
+	7 Development Center
