@@ -1,9 +1,9 @@
 ﻿{
     "sets": [
         {
-            "set_code": "MSY",
-            "set_name": "MSEM Mystery Community Slots",
-            "formats": "MSEM"
+            "set_code": "LoL",
+            "set_name": "",
+            "formats": "UNSET"
         }
     ]
 }

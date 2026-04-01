@@ -1,0 +1,4234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>LoL</name>
+			<longname></longname>
+			<settype>Custom</settype>
+			<releasedate>2026-04-01</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Gyatt</name>
+			<text>Enchant creature
+Enchanted creature gains backbone. (This creature assigns combat damage equal to its toughness instead of its power.)
+When this enchantment enters, draw a card.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/0.png" num="16">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Change da World</name>
+			<text>Exile target nonland permanent without a supertype.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/1.png" num="6">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dab</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2, has banding, and is a token in addition to its other types.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/2.png" num="9">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Idol Meeting</name>
+			<text>Enchant creature
+Enchanted creature is a planeswalker.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/3.png" num="19">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unsung Hero</name>
+			<text>This card has no name.
+Lifelink</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/4.png" num="4">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ice Cream Vendor</name>
+			<text>When this creature enters the battlefield, you gain 1 life for each zone in which you have a card.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/5.png" num="18">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>PeNgU1N oF d00m</name>
+			<text>Banding
+This creature gets +1/+1 for each other creature in a band with it.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/6.png" num="2">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slayin&apos; Queen</name>
+			<text>Protection from basic (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything basic.)</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/7.png" num="33">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Techwear Foxgirl</name>
+			<text></text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/8.png" num="36">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Creature — Fox Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vtuber Unicorn</name>
+			<text>As this creature enters the battlefield, choose target creature.
+If the target creature would die, this creature dies instead.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/9.png" num="39">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Unicorn Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glaze</name>
+			<text>Flash
+Enchant creature
+Prevent all damage that would be dealt to enchanted creature the turn this Aura enters.
+Whenever enchanted creature changes status, it gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/10.png" num="14">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Task Manager</name>
+			<text>Banding
+Creatures in a band with this creature get +1/+1.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/11.png" num="35">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lorewriter</name>
+			<text>{2}{W}: This creature gains all the abilities target creature lost this turn. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/12.png" num="23">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gamers Rise Up</name>
+			<text>Creatures you control get +2/+0 until end of turn. Gamers you control gain your choice of absorb, afflict, bushido or frenzy until end of turn. The value for the chosen ability is 1.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/13.png" num="13">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Podcast Listener</name>
+			<text>This creature can only attack or block in a band.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/14.png" num="27">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Guest</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cinema</name>
+			<text>You gain 1 life for each game action that happened this turn.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/15.png" num="7">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jxb Application</name>
+			<text>Enchant opponent
+Special actions enchanted opponent takes use the stack.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/16.png" num="21">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Influencer</name>
+			<text>{W}, {T}: The controller of another target creature casts it without paying its mana cost.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/17.png" num="20">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seiso Idol</name>
+			<text>This creature&apos;s text box can&apos;t change.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/18.png" num="31">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>Target permanent loses all types, all abilities and has no name until end of turn.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/19.png" num="40">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Put the Fries in the Bag</name>
+			<text>Counter target spell with no target.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/20.png" num="64">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gynoid Combatant</name>
+			<text>At the beginning of your upkeep, Gynoid Combatant gains prowess.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/21.png" num="55">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clickbait</name>
+			<text>Change the target of target spell or ability to target permanent. Replaces all instances of card names in that spell or ability to the target permanent&apos;s name.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/22.png" num="49">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Free Bird</name>
+			<text>Flying
+Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature&apos;s combat damage, not its controller, among any of the creatures it&apos;s being blocked by or is blocking.)
+Creatures in a band with Free Bird have flying.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/23.png" num="53">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Parasocial Streamer</name>
+			<text>Flying
+When this creature enters the battlefield, choose target creature. That creature always has the same states as this creature.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/24.png" num="62">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stun Snidd</name>
+			<text>Stun Snidd deals damage in the form of stun counters.
+Remove two stun counters from among permanents: Conjure a Sea Snidd into your hand.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/25.png" num="72">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vtuber Manager</name>
+			<text>{U}, {T}: Change a status of target creature to its other value.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/26.png" num="77">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yassify</name>
+			<text>Choose one, then choose another for each card named Yassify you own in each public zone.
+• Put a flying counter on target creature.
+• Put a mentor counter on target creature.
+• Put a banding counter on target creature.
+• Put a prowess counter on target creature.
+• Put a horsemanship counter on target creature.
+• Put a vigilance counter on target creature.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/27.png" num="78">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>ASMRtist</name>
+			<text></text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/28.png" num="44">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Creature — Elf Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>All According to Keikaku</name>
+			<text>Draw a card for each different supertype among permanents you control.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/29.png" num="42">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sketchy Rakugaki</name>
+			<text>Whenever this creature enters the battlefield or attacks, target permanent.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/30.png" num="69">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Incarnation Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blogger</name>
+			<text>Whenever you cast a spell, note the text of that spell. If you&apos;ve already noted the same text, draw a card.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/31.png" num="46">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Six Seven</name>
+			<text>Choose one—
+• Target creature&apos;s base power and toughness is 6/7 until end of turn.
+• Change any amount or value on a spell you control to six or seven.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/32.png" num="68">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cancelled</name>
+			<text>Counter target spell. Then choose one at random—
+• Its controller mills three cards.
+• If that spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.
+• Scry 1.
+• Its controller draws a card. Draw a card.
+• Draw a card, then discard a card.
+• Surveil 1.
+• If that spell&apos;s mana value was 3 or less, proliferate.
+• Amass Orcs 1.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/33.png" num="47">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tralalero Tralala</name>
+			<text>Landwalk (This creature can&apos;t be blocked as long as defending player controls a Land.)</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/34.png" num="74">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shark</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ponder the Orb</name>
+			<text>Scry 1, surveil 1, fateseal 1, clash with an opponent. If you win, discover X, where X is the number of cards put on the bottom of a library with this card.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/35.png" num="63">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Slide into DMs</name>
+			<text>Conjure a card named Unread Message into target player&apos;s hand. As long as they have that card in their hand, they play with their hand revealed. (It&apos;s a sorcery that costs {2} with &quot;Draw a card.&quot;)
+Draw a card.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/36.png" num="70">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sandbox Gamer</name>
+			<text>{U}, {T}: Add flash, &quot;this spell can&apos;t be countered&quot; or affinity for Gamers to a spell you control as you cast it.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/37.png" num="67">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twink Death</name>
+			<text>Enchant creature without summoning sickness 
+Enchanted creature gets -2/-2. Put a stun counter on it whenever it becomes tapped.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/38.png" num="115">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brainrot</name>
+			<text>Enchant opponent
+Enchanted opponent must follow the Chains of Mephistopheles flowchart.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/39.png" num="85">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Become Uncanny</name>
+			<text>Target creature&apos;s base power and toughness become its negatives until end of turn.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/40.png" num="84">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Discord Kitten</name>
+			<text>You may redirect damage dealt to this creature to a creature with composite mana value you control.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/41.png" num="90">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bruh Moment</name>
+			<text>Target player discards two cards. Then choose one at random—
+• That player mills two cards, and loses 2 life.
+• Exile that player&apos;s graveyard.
+• If you attacked this turn, create a Treasure token.
+• Ninjas and Rogues you control gain menace until end of turn.
+• You mill two cards.
+• You create a 2/2 black Zombie creature token with decayed.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/42.png" num="79">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drip</name>
+			<text>Enchant creature
+Enchanted creature gets +3/+0, has menace and can be enchanted as though it didn&apos;t have protection.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/43.png" num="91">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eat Hot Chip and Lie</name>
+			<text>Eat Hot Chip and Lie costs {1} less to cast for each mulligan you took this game.
+Target opponent reveals their hand. You choose a card from it. That player discards that card.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/44.png" num="80">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>I Lived</name>
+			<text>Sacrifice a creature, then return it to the battlefield.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/45.png" num="97">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gamer (Derogatory)</name>
+			<text>If you&apos;ve won a game this match, Gamer (derogatory) gets +3/+0.
+If you&apos;ve lost a game this match, Gamer (derogatory) gets +0/+3.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/46.png" num="93">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Media Consumer</name>
+			<text></text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/47.png" num="101">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Creature — Cat Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Schrödinger&apos;s Catgirl</name>
+			<text>You may cast this creature from your graveyard.
+{T}: This creature dies.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/48.png" num="108">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Girl Failure</name>
+			<text>Whenever you fail to find, you may conjure a copy of Girl Failure into your hand.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/49.png" num="94">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cryptobro</name>
+			<text>If you control three or more nonland permanents with consecutive mana values, you may increase a number or amount in a permanent you control by 1.
+Pay 2 life: Exchange a card you own in ante with a card in your hand.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/50.png" num="88">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roguelike Adventurer</name>
+			<text>Whenever this creature attacks, venture into a dungeon you haven&apos;t ventured yet. If you can&apos;t, enter a random room. (Enter the first room or advance to the next room.)</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/51.png" num="107">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slop Consumer</name>
+			<text>You may reveal this creature as you draw it or if it&apos;s in your starting hand. If you do, discard it.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/52.png" num="111">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paid Sponsor</name>
+			<text>Raid — When this creature enters the battlefield, if you attacked with a creature this turn, create a Treasure token.
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Legends you control gain Ward—Pay 1 life. (By Legends I mean legendary permanents you goofball.)</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/53.png" num="103">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unalive</name>
+			<text>A creature of your choice dies.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/54.png" num="116">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bad to the Bone</name>
+			<text>Haste
+{B}: Regenerate this creature. Regenerating doesn&apos;t remove this creature from combat.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/55.png" num="82">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Actual Shitposter</name>
+			<text>{T}: Regenerate target creature, then destroy it.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/56.png" num="81">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Burninate</name>
+			<text>This spell deals damage to any target equal to the greatest generic cost among permanents you control.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/57.png" num="120">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Do a Little Trolling</name>
+			<text>Target land is a creature.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/58.png" num="125">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Festival Priestess</name>
+			<text>{1}{R}{R}: : Play a random effect.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/59.png" num="131">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Elite Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fumble a Baddie</name>
+			<text>Target creature deals lethal damage to itself.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/60.png" num="135">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Insane Troll Logic</name>
+			<text>As an additional cost to cast Insane Troll Logic, draw two cards.
+Your maximum hand size this turn is zero.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/61.png" num="138">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Isekai Maiden</name>
+			<text>Isekai Maiden gets +2/+2 as long as you&apos;ve cast a world spell this turn.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/62.png" num="140">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mucho Texto</name>
+			<text>Target spell loses its text box.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/63.png" num="146">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Techno Viking</name>
+			<text>When Techno Viking enters the battlefield, play a random fast effect.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/64.png" num="153">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Barbarian</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Down Bad</name>
+			<text>The Ring tempts you. Take the initiative. Venture into the dungeon. If you have the city&apos;s blessing, face the Hydra.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/65.png" num="127">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>IPad Baby</name>
+			<text>If IPad Baby would be put under certain status, it gets the opposite status instead.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/66.png" num="139">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Child Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>First!</name>
+			<text>This spell deals 3 damage to any target. It deals 2 damage to you unless it&apos;s the first spell cast this game.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/67.png" num="133">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>First Person Shooter</name>
+			<text>{T}: You deal 1 damage to target player.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/68.png" num="132">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Keyboard Warrior</name>
+			<text>Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)
+This creature has the textbox of all the permanents it has dealt damage to.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/69.png" num="141">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Edgelord</name>
+			<text>This creature attacks each turn if able.
+Prevent all excess damage this creature would deal.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/70.png" num="128">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chicken Jockey</name>
+			<text>Horsemanship (This creature can&apos;t be blocked except by creatures with horsemanship.)
+At the beginning of combat during your turn, you may have this creature&apos;s power become any number or amount on a spell you&apos;ve cast this turn until end of turn.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/71.png" num="122">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silly Little Guy</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+Reselect targets at random of any spell that targets this creature.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/72.png" num="150">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gremlin Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chūnibyō Weeb</name>
+			<text>Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)
+At the beginning of combat each turn, you may subtract numbers from this creature&apos;s soulshift to adds to its bushido and vice versa until end of turn.
+Soulshift 2 (When this creature dies, you may return target Spirit card with mana value 2 or less from your graveyard to your hand.)
+Ninjutsu {4}{B} Gamer offering ({4}{B}, sacrifice a Gamer and pay the difference in mana costs, including color, between this and the sacrificed Gamer. Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/73.png" num="86">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Child</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Face Eating Leopard</name>
+			<text>First strike
+At the beginning of your upkeep, this creature deals 1 damage to each opponent it has dealt damage this game.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/74.png" num="130">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tumblr Sexyman</name>
+			<text></text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/75.png" num="155">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Creature — Human Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Girldinner</name>
+			<text>Target token becomes Food.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/76.png" num="172">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Big if True</name>
+			<text>Target creature gets +1/+1 until end of turn if it has flying. The same is true for every other keyword ability.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/77.png" num="161">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Touch Grass</name>
+			<text>Search your library for a basic land card. Play it.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/78.png" num="190">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Defluencing</name>
+			<text>Artifact and enchantment lose all types, names and abilities until end of turn. Same is true for artifact and enchantment cards not on the battlefield.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/79.png" num="164">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Squatting друг</name>
+			<text>Squatting друг can only attack or block while tapped.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/80.png" num="188">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wholesome Pupperino</name>
+			<text>After you mulligan, if you have four or less cards in your starting hand, you may reveal Wholesome Pupperino from your library or outside the game and put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/81.png" num="193">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elf Insert</name>
+			<text></text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/82.png" num="166">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Creature — Elf Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>La Creatura</name>
+			<text>La fuerza y resistencia de esta criatura son iguales al mayor coste genérico entre los costes de mana de los permanentes que controlas.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/83.png" num="179">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Criatura — Horror Insecto</type>
+				<maintype>Criatura</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Wolf Inside</name>
+			<text>Emerge {6} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
+As The Wolf Inside enters, create a 3/3 green Wolf creature token. When you attack with this creature, also tap that token, same is true for tapping, untapping, blocking, getting destroyed, exiled or taking damage.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/84.png" num="195">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forum Troll</name>
+			<text>{1}{G}: Regenerate this creature.
+You may counter an activated ability each turn.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/85.png" num="169">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Obvious Plant</name>
+			<text>Defender
+If you would create a token, you might instead put this creature onto the battlefield from any zone other than your library.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/86.png" num="183">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Geo Guesser</name>
+			<text>When this creature enters, each player secretly names a Basic land type. Create a land token that&apos;s none of the types chosen. If all land types were chosen this way, create a Wastes token instead.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/87.png" num="170">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hypebeast</name>
+			<text>This creature always counts as having an aura enchanting it.
+Auras enchanting this creature can&apos;t be unattached from it.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/88.png" num="174">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Firebomb a Walmart</name>
+			<text>Choose one—
+• Destroy target noncreature permanent.
+• Exile target non-commander card in the command zone.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/89.png" num="168">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Juan.</name>
+			<text>Manhorseship (This creature can block creatures with horsemanship.)
+Exhaust — {G}: You gain 1 life for each card you own on the command zone.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/90.png" num="177">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Interior Crocodile Alligator</name>
+			<text>When a Vehicle crewed by this creature deals combat damage to an opponent, you may have the next instant or sorcery spell you cast this turn gain rerun. (If you cast this from your hand, exile it as it resolves. Whenever a creature you control dies, you may cast this card from exile without paying its mana cost.) (Yes this is for flavor.)</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/91.png" num="175">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile Alligator</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Washed Goat</name>
+			<text>During your cleanup step, for each point of damage removed from this creature, you gain 1 life.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/92.png" num="192">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goat</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Woke Dog</name>
+			<text>Creatures you control have Ward {X}, where X is every card type they have beyond the first. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {X}.)
+Awaken 4 {6}{G} (If you cast this spell for {6}{G}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It&apos;s still a land.)</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/93.png" num="194">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jane Metroidvania</name>
+			<text>Whenever this creature deals combat damage to a player, venture into the dungeon.
+While venturing into the dungeon, you may return to the previous room rather than enter the next one.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/94.png" num="176">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Insect Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gone to Brazil</name>
+			<text>Put target creature outside the game. Their owner may put another card they own from outside the game into their hand.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/95.png" num="15">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Snow Halation</name>
+			<text>Prevent all damage that would be dealt by permanent spells cast this turn.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/96.png" num="3">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Professional Moderator</name>
+			<text>Vigilance, lifelink
+Players can&apos;t skip steps.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/97.png" num="28">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vibe Check</name>
+			<text>Choose target permanent and target permanent spell that share a card type. The target permanent is world, and the permanent spell enters the battlefield as world until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/98.png" num="38">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Horny Jail</name>
+			<text>Sources can&apos;t deal damage to you unless their owner pays {1} for each other source they control that has already dealt damage to you this turn.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/99.png" num="17">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Simp</name>
+			<text>As this creature enters the battlefield, another target creature you control becomes a Commander. This effect doesn&apos;t end if that creature leaves the battlefield. (Even if you weren&apos;t playing commander).</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/100.png" num="32">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Praetor</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quirked up White Boy</name>
+			<text>Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)
+Distorted (This creature can be blocked by tapped creatures but not untapped creatures.)</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/101.png" num="29">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fanum Tax</name>
+			<text>Target spell costs {2} more to cast.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/102.png" num="12">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>A Real One</name>
+			<text>Other permanents lose legendary. The same is true for spells and creature cards that aren&apos;t on the battlefield.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/103.png" num="30">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dandere</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/104.png" num="10">LoL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Art Mama</name>
+			<text>At the beginning of combat on your turn, Put a &quot;Bands with other creatures with a bands with other creatures counter&quot; counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/105.png" num="5">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Artist</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nothing ever Happens</name>
+			<text>End the phase.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/106.png" num="60">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Animutation</name>
+			<text>Enchant creature
+Enchanted creature gains its abilities.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/107.png" num="43">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crack Pairing</name>
+			<text>Target creature become a copy of another target creature controlled by the same player until end of turn. Both are legendary until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/108.png" num="51">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ted, the Talker</name>
+			<text>Sacrifice this creature: Change the text of target instant or sorcery spell by replacing all instances of &quot;each&quot; with &quot;target&quot;, its controller may choose new targets for it.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/109.png" num="73">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Doctor</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spelln&apos;t</name>
+			<text>As an additional cost to cast Spelln&apos;t, counter target spell.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/110.png" num="41">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Head Out</name>
+			<text>The stack phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/111.png" num="56">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Uno Reverse Card</name>
+			<text>Change the target of target spell that targets you. The new target must be its owner. Reverse the turn order.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/112.png" num="76">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Install Wizard</name>
+			<text>When this creature enters the battlefield, you may have it become a trigger event for a triggered ability of a permanent on the battlefield.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/113.png" num="57">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Construct Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Game Theorist</name>
+			<text>Flying
+If an effect would exile a permanent and then return it to the battlefield, that permanent is the same object.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/114.png" num="54">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kuudere</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/115.png" num="59">LoL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga</type>
+				<maintype>Creature</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rig Papa</name>
+			<text>Other creatures and permanents without type you control gain reconfigure {4}. Creatures that get a permanent attached this way gain all the abilities of their attached permanent.
+Transfigure {1}{U}{U}</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/116.png" num="66">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Rigger</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Epic Fail</name>
+			<text>If an effect would make an opponent discard a card while they have no cards in hand, they lose 3 life instead.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/117.png" num="92">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nothing Personel Kid</name>
+			<text>Exile target creature with composite power.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/118.png" num="102">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pyramid Schemer</name>
+			<text>Flying
+As this creature enters, choose an Ongoing Scheme you own from outside the game and set it in motion on your command zone. Abandon that Scheme when this creature leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/119.png" num="104">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sphinx Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soyjack</name>
+			<text>This creature can&apos;t block.
+If you would sacrifice a creature as part of a cost, you may sacrifice this creature instead.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/120.png" num="113">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yandere</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/121.png" num="117">LoL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Totally Xtreme</name>
+			<text>As an additional cost to cast Totally Xtreme, exile a creature card you own from outside the game.
+Target player gets X rad counters, where X is the power of the exiled creature.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/122.png" num="114">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shadow Wizard Money Gang</name>
+			<text>Shadow (This creature can block or be blocked by only creatures with shadow.)
+This creature deals combat damage in the form of Treasure tokens.
+{2}{B}: Exchange this creature with a creature card in your hand. If this creature was attacking, that creature enters attacking.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/123.png" num="109">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Slug Minion Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Collection Scalper</name>
+			<text>As you cast this creature, choose an expansion. Target player reveals their hand. Choose a card with a name originally printed in that expansion. that player discards that card.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/124.png" num="87">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Moonfolk Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Real Hater</name>
+			<text>Whenever an effect an opponent controls causes you to pay a cost, that opponent loses 2 life.
+Other creatures with abilities that say &quot;can&apos;t&quot; get -1/-1.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/125.png" num="105">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shounen Protagonist</name>
+			<text>You may sacrifice this creature to copy any One-Shot effect you control.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/126.png" num="149">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Go Live</name>
+			<text>Put target creature card in a graveyard onto the battlefield under your control. If that creature had died, it gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/127.png" num="95">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stream Sniper</name>
+			<text>Whenever one or more cards become revealed, this creature deals 1 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/128.png" num="152">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Delet This</name>
+			<text>If you haven&apos;t suspended a card from outside the game this game, you may put a card in your opening hand outside the game and suspend this card from outside the game with two time counters.
+This spell deals 3 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/129.png" num="124">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Parking Lot Brawler</name>
+			<text>Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)
+{Q}: Remove target blocking creature from combat. Creatures it was blocking that hadn&apos;t become blocked by another creature this combat become unblocked, then it blocks an attacking creature of your choice. Activate only during the declare blockers step.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/130.png" num="147">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yeet</name>
+			<text>Randomly put target creature into its owner&apos;s hand, exile, sideboard, commander zone or graveyard.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/131.png" num="156">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Become Ungovernable</name>
+			<text>No player controls target creature until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/132.png" num="118">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Goblin Mode</name>
+			<text>Enchant player
+Whenever enchanted player is attacked, each player hides at least one item, then all players reveal them simultaneously. Each player loses life equal to the number of items they revealed. The player who revealed the fewest items then loses half their life, rounded up. If two or more players are tied for fewest, each loses half their life, rounded up.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/133.png" num="137">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Challenge Runner</name>
+			<text>You can deploy creatures to your opponents.
+Freerunning {2R} (You may cast this spell for its freerunning cost if you dealt combat damage to a player this turn with an Assassin or commander.)</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/134.png" num="121">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gremlin Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deep Fry</name>
+			<text>Whenever another source you control changes the text of an instant or sorcery spell, you may have that spell gain &quot;This spell deals 2 damage to any target.&quot;</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/135.png" num="123">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Boomer Shooter</name>
+			<text>{T}: This creature deals X damage to target creature or planeswalkers, where X is the amount of turns its owner&apos;s had since that permanent has been on the battlefield.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/136.png" num="119">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Min Maxer</name>
+			<text>Whenever this creature attacks, you may have it get +X/-X until end of turn.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/137.png" num="145">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tsundere</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/138.png" num="154">LoL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mewing Streak</name>
+			<text>Enchant creature
+Cumulative upkeep— Enchanted creature gets +1/+1 until Mewing Streak leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/139.png" num="181">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chug Jug</name>
+			<text>You gain life equal to the amount of life you&apos;ve gained this game.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/140.png" num="162">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Far Even as Decided</name>
+			<text>Shuffle a planar deck you own from outside the game into your command zone. Turn the top card of the planar deck face up and its effects become present in the game. Planechase rules now apply to the game.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/141.png" num="167">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Swole</name>
+			<text>Square target creature&apos;s power and toughness until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/142.png" num="189">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sigma Grinder</name>
+			<text>Effects that apply to all creatures on the battlefield don&apos;t apply to Sigma Grinder.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/143.png" num="186">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vine Boom</name>
+			<text>Vine Boom deals damage to any target equal to the power of target creature you control, the loyalty of target planeswalker you control or the printed power/toughness box of a permanent you control.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/144.png" num="191">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heckin&apos; Chonker</name>
+			<text>Heckin&apos; Chonker costs {1} less to cast for each different generic mana symbol among permanents you control.
+Trample</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/145.png" num="173">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gigachad</name>
+			<text>Gigachad can&apos;t be countered, exiled from the stack, returned to hand from the stack, or not resolve.
+Trample</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/146.png" num="171">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Powerscaler</name>
+			<text>Trample, Ward {1}
+This creature&apos;s power is equal to the next creature&apos;s with the most power plus 2.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/147.png" num="184">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>*/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deredere</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/148.png" num="165">LoL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leave no Crumbs</name>
+			<text>Creature spells you cast have devour 2. (As this enters, you may sacrifice any number of creatures. That creature enters with twice that many +1/+1 counters on it.)
+Creatures you control have ingest. (Whenever that creature deals combat damage to a player, that player exiles the top card of their library.)
+Put three cards ingested by creatures you control into their owner&apos;s graveyard: Conjure a Night Soil into your hand.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/149.png" num="180">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>A Cruel Angel&apos;s Thesis</name>
+			<text>Destroy all permanents without supertypes.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/150.png" num="8">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>True Name User</name>
+			<text>Whenever you choose a card name, draw a card.
+Whenever you search your library for a card with a specific name, you may search another one of those cards.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/151.png" num="37">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Magus of Despacito</name>
+			<text>First strike
+Spells can only be cast any time a sorcery could be cast.
+Abilities can only enter the stack if it&apos;s empty.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/152.png" num="1">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gremlin Demon Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Supreme Admin</name>
+			<text>Creatures assign combat damage inverse proportionally in relation to the greatest power among creatures on the battlefield.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/153.png" num="34">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>WWW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Data Scrapper</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+Backbone (This creature assigns combat damage equal to its toughness instead of its power.)
+Permanents can&apos;t attach.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/154.png" num="11">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Map Painter</name>
+			<text>Whenever a white spell you control that targets successfully resolves, create a Map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/155.png" num="24">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kamioshi</name>
+			<text>This creature has all abilities.</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/156.png" num="22">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog God</type>
+				<maintype>Creature</maintype>
+				<manacost>5WWW</manacost>
+				<cmc>8</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Turn into a Pickle</name>
+			<text>Target permanent spell enters the battlefield as a Food token.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/157.png" num="75">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Content Creator</name>
+			<text>When Content Creator enters the battlefield, you may pay the cost of anything on the stack, if you do, copy it.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/158.png" num="50">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Employee</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>It&apos;s Rewind Time</name>
+			<text>Take an extra turn.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/159.png" num="58">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Clever Cyberpunk</name>
+			<text>Abilities you control add an additional {C}. This mana can&apos;t be used.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/160.png" num="48">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quantum Rizzler</name>
+			<text>Flying
+Rather than draw cards one at a time, if a player is instructed to draw multiple cards, those cards are drawn all together.
+Whenever you draw cards, create a 1/1 colorless Shrimp creature token with islandwalk.
+Splice onto Gamer {1}{U} (As you cast a Gamer spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card&apos;s effects to that spell.)</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/161.png" num="65">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Harpy Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beyond Belief</name>
+			<text>Reveal the top five cards of your library. An opponent separates those cards into two piles. Each player secretly votes for a pile, then those votes are revealed. Put any pile with the most votes into your hand and the other into your graveyard. A pile can&apos;t have no cards.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/162.png" num="45">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stan</name>
+			<text>When Stan enters the battlefield, create a token that&apos;s a copy of target creature.
+All effects are copiable values.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/163.png" num="71">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Refuse to Elaborate</name>
+			<text>Turn your graveyard face down.
+If a card would be put into your graveyard from anywhere, put it into your graveyard face down, then shuffle your graveyard.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/164.png" num="106">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Bart Ender</name>
+			<text>As The Bart Ender enters the battlefield, each opponent names a creature card in their deck. Creatures named this way are now named Bart.
+{T}: Destroy target Bart.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/165.png" num="83">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rabbit Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Man Behind the Slaughter</name>
+			<text>Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
+After your draw step choose one that hasn&apos;t been chosen. If you can&apos;t or it&apos;s become day, sacrifice this creature —
+• Create a 2/1 red Fox Animatronic artifact creature under no player&apos;s control. It attacks you during each other players&apos; turn.
+• Play with your hand revealed.
+• Target opponent creates a Secret Arcade//Dusty Parlor token. Unlocking doors for it costs {W} less.
+• Another player controls you during your next turn.
+• Your maximum hand size is reduced to zero.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/166.png" num="100">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Animatronic</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dealer of Loss</name>
+			<text>Flying
+If a player fails to find, that player loses the game.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/167.png" num="89">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3BBB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Shareholders</name>
+			<text>As this creature enters the battlefield, your opponents become your teammates and your teammates become your opponents.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/168.png" num="110">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Major Skill Issue</name>
+			<text>Damage isn&apos;t removed from creatures your opponents control during cleanup steps.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/169.png" num="99">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goncharov</name>
+			<text>You may activate abilities and cast spells from your hand as if they were in your graveyard.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/170.png" num="96">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fukua, Hellrider</name>
+			<text>You may reveal this card from outside the game or your hand before starting the game, if you do, ignore higher seeds.
+Creatures can&apos;t not attack.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/171.png" num="134">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>L33T H4XX</name>
+			<text>Reverse the order of the spells on the stack.
+Draw a card</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/172.png" num="142">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Speedrunner</name>
+			<text>Haste
+When Speedrunner becomes declared attacker, skip to the combat damage step, then sacrifice Speedrunner.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/173.png" num="151">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Whale Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Entire Bee Movie Script</name>
+			<text>Whenever a spell or ability is put onto the stack, its owner flips a coin, if they lose, that spell or ability becomes a copy of a random Insect card.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/174.png" num="129">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Revengeance Status</name>
+			<text>Revengeance Status deals X damage to every number of target. Where X is the number of steps taken during this phase.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/175.png" num="148">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Let&apos;s Play</name>
+			<text>Players play a Magic subgame, using 3-card blind rules. The winning player adds {R}{R}{R} at the beginning of their next main phase. If the game ended in a draw, each player draws a card.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/176.png" num="143">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Memelord</name>
+			<text>Flying
+Creatures you control get +1/+1 for each other creature you control that&apos;d get +1/+1 from an ability of that creature.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/177.png" num="144">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aura Farmer</name>
+			<text>When Aura Farmer enters the battlefield, Adjudicate (Create a white Aura enchantment token with enchant creature and &quot;Sacrifice this token: Untap enchanted creature&quot; attached to target creature.)
+Auras you control gain &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/178.png" num="158">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>My Turn on the Xbox</name>
+			<text>&quot;Can&quot; effects take precedence over &quot;Can&apos;t&quot; effects.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/179.png" num="182">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dat Boi</name>
+			<text>Flash
+Cast Dat Boi only if there&apos;s a spell on the stack.
+As you cast Dat Boi, target opponent may copy a spell.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/180.png" num="163">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Somebody Once Told Me</name>
+			<text>You may cast Somebody Once Told Me without paying its mana cost in response to the first spell cast this game.
+Reveal the top five cards of your library. Each opponent chooses a card revealed this way not chosen already. Put a card chosen this way into your hand and the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/181.png" num="187">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Absolute Unit</name>
+			<text>This creature&apos;s power is double the power of the next creature with the most power on the battlefield.
+This creature&apos;s toughness is double the toughness of the next creature with the most toughness on the battlefield.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/182.png" num="157">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jungle Champion</name>
+			<text>Trample, Toxic 3
+Trample over noncreature permanents.
+Whenever a permanent dealt lethal damage by this creature dies, create a Treasure token.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/183.png" num="178">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Big Chungus</name>
+			<text>Trample, Haste
+Whenever Big Chungus attacks, it becomes a trigger event for every triggered ability among permanents on the battlefield.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/184.png" num="160">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rabbit</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nothing Without You</name>
+			<text>Creatures are world.</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/185.png" num="26">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>World Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nostalgia Critic</name>
+			<text>Protection from traditional [b]MAGIC[/b] cards. (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything traditional MAGIC cards..)</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/186.png" num="25">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Organizer of the Symposium</name>
+			<text>Vigilance
+Layers are applied in reverse order.</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/187.png" num="61">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Epicsauce</name>
+			<text>Create a Function token with &quot;Epic.&quot; (It&apos;s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/188.png" num="52">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lock In</name>
+			<text>Whenever an object enters the battlefield or the stack under your control , you draw a card and you lose 1 life.
+If you fail to maintain game state, you lose the game.</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/189.png" num="98">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sorin Markov Chain</name>
+			<text>As this artifact enters, conjure three random Sorin planeswalker cards merged under it. 
+Whenever you draw a card, flip a coin. If you win the flip, put one of the merged Sorin cards into your hand, otherwise, conjure another Sorin planeswalker card and merge it under this artifact.</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/190.png" num="112">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gacha Whale</name>
+			<text>As Gacha Whale enters the battlefield, each player gets an emblem with &quot;Whenever you win a coin flip, this emblem deals 1 damage to any target.&quot;
+Combat damage is dealt in the form of coin flips.</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/191.png" num="136">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Whale Guest</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dog of Wisdom</name>
+			<text>Ignore all exceptions.</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/192.png" num="126">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Baby Grok</name>
+			<text>Trample over permanents.
+When this creature deals combat damage to an opponent, choose a permanent card with mana value 1 at random, then conjure it into your hand. It perpetually gains &quot;this permanent&apos;s base power and toughness is 6/7.&quot; If it&apos;s not a creature, it still has a printed power/toughness box this way.</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/193.png" num="159">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Child</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Primordial Hag</name>
+			<text>Trample
+Mana emptying from mana pools causes players to lose that much life.
+Combat damage utilizes the stack.
+Players can&apos;t cast spells with the same name as a legendary permanent on the battlefield.
+Players can&apos;t play legendary lands with the same name as a land on the battlefield.</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/194.png" num="185">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elder Dinosaur Hag</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Like // Subscribe</name>
+			<text>Target spell, permanent or player gains hexproof until end of turn.
+
+---
+
+This spell has all abilities of other spells on the stack.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/195.png" num="209">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W // 3UUU</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forgor // Rember</name>
+			<text>Target player reveals their hand, then puts a card of your choice outside the game.
+
+---
+
+Return target instant or sorcery spell from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/196.png" num="207">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B // 2U</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cope // Seethe</name>
+			<text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+
+---
+
+Seethe deals X damage to target player, where X is the number of cards that have left their hand this turn.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/197.png" num="200">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B // R</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Smash // Mouth</name>
+			<text>Destroy target artifact.
+Draw a card.
+
+---
+
+Create a 3/3 green Hippo creature token.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/198.png" num="213">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Instant // Sorcery</type>
+				<maintype>Instant</maintype>
+				<manacost>2R // 2G</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>True // Real</name>
+			<text>You gain hexproof until end of turn.
+
+---
+
+Target permanent you control can&apos;t leave the battlefield this turn.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/199.png" num="215">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W // G</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Block // Report</name>
+			<text>Attacking creatures become blocked.
+
+---
+
+Choose a nonland card name. Target player reveals their hand. Choose a card with the chosen name in that player&apos;s hand or graveyard and exile it.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/200.png" num="197">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W // B</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Virgin // Chad</name>
+			<text>Target creature can&apos;t have power greater than 0 until end of turn.
+
+---
+
+Double the power of target creature you control. Sacrifice it at end of turn.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/201.png" num="216">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U // 1R</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drag // Drop</name>
+			<text>Put target creature on the bottom of its owner&apos;s graveyard.
+
+---
+
+Put target noncreature permanent on the bottom of its owner&apos;s library.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/202.png" num="204">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB // 2GG</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Meet // Greet</name>
+			<text>Creatures you control gain Soulbond this turn if they don&apos;t have it.
+Paired creatures you control get +2/+2 this turn.
+
+---
+
+Creatures that entered the battlefield this turn have haste.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/203.png" num="210">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W // R</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>H.R.T // H.R.T</name>
+			<text>Target creature becomes a new object.
+
+---
+
+Target creature becomes a Horse Mount in addition to its other types, gains saddle 1 and &quot;whenever it attacks while saddled, it gains horsemanship&quot; until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/204.png" num="208">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U // G</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Facts // Logic</name>
+			<text>Return this spell to its owner&apos;s hand, then discard a card.
+
+---
+
+Counter target spell unless its controller pays 1 for each card put into your graveyard this turn.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/205.png" num="205">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W // 1U</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>C.B.T // C.B.T</name>
+			<text>Shuffle the cards in your hand into your library, then draw that many cards plus one.
+
+---
+
+This turn, target player&apos;s maximum hand size is two.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/206.png" num="198">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U // 1B</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Debut // Graduate</name>
+			<text>You may put a creature or planeswalker card from your hand onto the battlefield. That creature gains haste. Sacrifice that permanent at the beginning of the next end step.
+
+---
+
+Exile target creature or Planeswalker</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/207.png" num="203">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4R // 3B</manacost>
+				<cmc>9</cmc>
+				<colors>R</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rick // Roll</name>
+			<text>Rick deals 2 damage to any target. Damage can&apos;t be prevented this turn.
+
+---
+
+Create a number of 3/3 green Elemental creature tokens equal to the number of differently named lands you control.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/208.png" num="212">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R // 4GG</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Submissive // Breedable</name>
+			<text>Exile target tapped creature.
+
+---
+
+Target creature&apos;s controller casts it with offspring {0} without paying its costs. The token copy enters the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/209.png" num="214">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W // 1G</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cringe // Based</name>
+			<text>Creatures get -X/-X until end of turn, where X is the number of times you&apos;ve held priority this turn.
+
+---
+
+When you next gain priority, return to the battlefield all creatures cards in your graveyard that were put there from the battlefield this turn.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/210.png" num="202">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB // 2WW</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Netflix // Chill</name>
+			<text>Red noncreature spells cost {2} less to cast.
+
+---
+
+Red spells cost {2} more to cast.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/211.png" num="211">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Enchantment — Room</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R // 1U</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flop // Bop</name>
+			<text>Until end of turn, if a player would search a library, they fail to find.
+
+---
+
+Conjure a Birds of Paradise into your hand.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/212.png" num="206">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B // G</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cooking // Cooked</name>
+			<text>The next 2 damage that a source of your choice would deal to you and/or permanents you control this turn is dealt to any target instead.
+
+---
+
+Cooked deals 2 damage to every target you don&apos;t control that has been dealt damage this turn.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/213.png" num="199">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W // R</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Copy // Paste</name>
+			<text>Copy target spell you control.
+
+---
+
+Merge target creature under another target creature. They become the permanent on top plus all abilities from under it.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/214.png" num="201">LoL</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU // GG</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spambot</name>
+			<text>You may reveal Spambot as you search your library, if you do, Conjure a copy of Spambot and shuffle it into your library.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/215.png" num="230">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Donowall</name>
+			<text>Defender
+Prevent all damage that would be dealt to this creature on turns where you&apos;ve spent mana from a token source.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/216.png" num="219">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marketable Plushie</name>
+			<text>You may have this creature be a Treasure Token when it&apos;s not on the battlefield.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/217.png" num="224">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Toy</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merch Drop</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color
+When you trigger a mana ability, you may return this artifact from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/218.png" num="225">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Second Monitor // Subway Surfers</name>
+			<text>---
+
+Each opponent divides all creatures they control into a &quot;left&quot; pile and a &quot;right&quot; pile. Then, for each creature you control, choose &quot;left&quot; or &quot;right.&quot; That creature can&apos;t be blocked this turn except by creatures in a pile with the chosen label.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/219.png" num="228">LoL</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Artifact // Sorcery — Adventure</type>
+				<maintype>Artifact</maintype>
+				<manacost>1 // 2</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>ROFLcopter</name>
+			<text>Flying
+Remove a non-Card object you control from the game: This Vehicle connives, then it becomes a creature until end of turn. Activate only once each turn. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/220.png" num="227">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Doomscroll</name>
+			<text>As this artifact enters the battlefield, reveal a card from your hand. Play with that card revealed.
+When you cast the card revealed, this artifact deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/221.png" num="220">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Skibidi Toilet</name>
+			<text>Whenever a noncreature permanent with a printed power/toughness box enters the battlefield under your control, you may have this artifact become an artifact creature with power and toughness equal to the numbers printed on that box.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/222.png" num="229">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dakimakura</name>
+			<text>Enchant creature
+The creature this artifact is attached to gets -0/-X and gains absorb X, where X is its toughness minus one. It can&apos;t be blocked except by Gamers. (If a source would deal damage to that creature, prevent X of that damage.)
+Equip {4}</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/223.png" num="218">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Enchantment — Equipment Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Drifting Itasha</name>
+			<text>Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Exhaust — Skip your turn: This Vehicle becomes an artifact creature.
+Max speed — Whenever you take a shortcut, this creature gets +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/224.png" num="221">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Content Farm</name>
+			<text>{T}: Add {C}.
+{T}: Add one mana of any color. Activate only if this land is fortifying another land.
+Fortify {1} ({1}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/225.png" num="234">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Land — Fortification</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dogwater Bay</name>
+			<text>As long as this land is tapped, it has all abilities of other lands you control.
+{T}: Add {0}.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/226.png" num="235">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Gamer Nation</name>
+			<text>{T}: Each player hides at least one item, then all players reveal them simultaneously. The player who hid the most chooses which color of mana this land adds, then loses life equal to the amount of items they hid.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/227.png" num="237">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Backrooms</name>
+			<text>Other players treat this land as if it didn&apos;t exist.
+{T}: Add {C}.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/228.png" num="233">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>SCP Site</name>
+			<text>{T}: Target spell costs {1} less.
+{T}: Add one mana of any color, spend this mana only on cryptic spells unless you&apos;re horrific.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/229.png" num="244">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Patreon Gallery</name>
+			<text>Enchant permanent
+{T}: Add one mana of any of enchanted permanent&apos;s colors. If enchanted permanent is colorless, add {C} instead.</text>
+			<set rarity="uncommon" picurl="https://Chumbeque/sets/LoL-files/img/230.png" num="241">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ohio</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice Ohio: Target player sacrifices a land without a subtype.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/231.png" num="240">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Liminal Space</name>
+			<text>{T}: Add one mana of any color no other land could produce.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/232.png" num="239">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hawk 2A</name>
+			<text>Flying
+Whenever you attack with two or more creatures in a band, tap this Vehicle. It becomes a creature. It attacks as part of that band.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/233.png" num="222">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ram Ranch</name>
+			<text>{T}: Add one mana of any color in your mana pool.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/234.png" num="242">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>World Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Gooncave</name>
+			<text>As long as you haven&apos;t ventured into the Dungeon, Gooncave isn&apos;t a creature.
+Wither
+{T}: Add {C}.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/235.png" num="238">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land Creature — Minion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Banhammer</name>
+			<text>Damage dealt by equipped creature to players causes them to lose the game.
+Equip {8}</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/236.png" num="217">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rockefeller Street</name>
+			<text>This land enters tapped. When it does, search your library for a land card, put it onto the battlefield merged on top of this land, then shuffle.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/237.png" num="243">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Political Compass</name>
+			<text>Political Compass is the source of all damage.</text>
+			<set rarity="rare" picurl="https://Chumbeque/sets/LoL-files/img/238.png" num="226">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magic Comprehensive Rules</name>
+			<text>Codex — A copy of each legal card in the format.</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/239.png" num="223">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Time Cube</name>
+			<text>{1}, {T}: Next turn&apos;s phases are taken in reverse order.</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/240.png" num="231">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Phil Mahar</name>
+			<text>If a permanent you control would be destroyed, regenerate it.
+All zones are public.
+Excess damage dealt by sources you control is dealt to each opponent.</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/241.png" num="196">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3WUBRG</manacost>
+				<cmc>8</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Everywhere, at End of Time</name>
+			<text>You have no end step.
+{T}: Add {C}.</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/242.png" num="236">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>World Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Food LoL</name>
+			<text></text>
+			<set rarity="common" picurl="https://Chumbeque/sets/LoL-files/img/243.png" num="1">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Torment Nexus</name>
+			<text>Damage is dealt in the form of torment. (To torment, a player loses 3 life unless they discard a card or sacrifice a nonland permanent.)</text>
+			<set rarity="mythic" picurl="https://Chumbeque/sets/LoL-files/img/244.png" num="232">LoL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

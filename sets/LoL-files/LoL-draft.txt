@@ -1,0 +1,3273 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Gyatt",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/0.png"
+			}
+		},
+		{
+			"name": "Change da World",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/1.png"
+			}
+		},
+		{
+			"name": "Dab",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/2.png"
+			}
+		},
+		{
+			"name": "Idol Meeting",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/3.png"
+			}
+		},
+		{
+			"name": "Unsung Hero",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/4.png"
+			}
+		},
+		{
+			"name": "Ice Cream Vendor",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cat Citizen",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/5.png"
+			}
+		},
+		{
+			"name": "PeNgU1N oF d00m",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird Ally",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/6.png"
+			}
+		},
+		{
+			"name": "Slayin' Queen",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/7.png"
+			}
+		},
+		{
+			"name": "Techwear Foxgirl",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Basic Creature — Fox Gamer",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/8.png"
+			}
+		},
+		{
+			"name": "Vtuber Unicorn",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Unicorn Performer",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/9.png"
+			}
+		},
+		{
+			"name": "Glaze",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/10.png"
+			}
+		},
+		{
+			"name": "Task Manager",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Advisor",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/11.png"
+			}
+		},
+		{
+			"name": "Lorewriter",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Horror Citizen",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/12.png"
+			}
+		},
+		{
+			"name": "Gamers Rise Up",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/13.png"
+			}
+		},
+		{
+			"name": "Podcast Listener",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Guest",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/14.png"
+			}
+		},
+		{
+			"name": "Cinema",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/15.png"
+			}
+		},
+		{
+			"name": "Jxb Application",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Curse",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/16.png"
+			}
+		},
+		{
+			"name": "Influencer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Performer",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/17.png"
+			}
+		},
+		{
+			"name": "Seiso Idol",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Performer",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/18.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/19.png"
+			}
+		},
+		{
+			"name": "Put the Fries in the Bag",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/20.png"
+			}
+		},
+		{
+			"name": "Gynoid Combatant",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/21.png"
+			}
+		},
+		{
+			"name": "Clickbait",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/22.png"
+			}
+		},
+		{
+			"name": "Free Bird",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Ally",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/23.png"
+			}
+		},
+		{
+			"name": "Parasocial Streamer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cat Horror",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/24.png"
+			}
+		},
+		{
+			"name": "Stun Snidd",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Beast",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/25.png"
+			}
+		},
+		{
+			"name": "Vtuber Manager",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/26.png"
+			}
+		},
+		{
+			"name": "Yassify",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/27.png"
+			}
+		},
+		{
+			"name": "ASMRtist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Basic Creature — Elf Performer",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/28.png"
+			}
+		},
+		{
+			"name": "All According to Keikaku",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/29.png"
+			}
+		},
+		{
+			"name": "Sketchy Rakugaki",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Incarnation Rogue",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/30.png"
+			}
+		},
+		{
+			"name": "Blogger",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Detective",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/31.png"
+			}
+		},
+		{
+			"name": "Six Seven",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/32.png"
+			}
+		},
+		{
+			"name": "Cancelled",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/33.png"
+			}
+		},
+		{
+			"name": "Tralalero Tralala",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Shark",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/34.png"
+			}
+		},
+		{
+			"name": "Ponder the Orb",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/35.png"
+			}
+		},
+		{
+			"name": "Slide into DMs",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/36.png"
+			}
+		},
+		{
+			"name": "Sandbox Gamer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cat Gamer",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/37.png"
+			}
+		},
+		{
+			"name": "Twink Death",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/38.png"
+			}
+		},
+		{
+			"name": "Brainrot",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/39.png"
+			}
+		},
+		{
+			"name": "Become Uncanny",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/40.png"
+			}
+		},
+		{
+			"name": "Discord Kitten",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Cat",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/41.png"
+			}
+		},
+		{
+			"name": "Bruh Moment",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/42.png"
+			}
+		},
+		{
+			"name": "Drip",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/43.png"
+			}
+		},
+		{
+			"name": "Eat Hot Chip and Lie",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/44.png"
+			}
+		},
+		{
+			"name": "I Lived",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/45.png"
+			}
+		},
+		{
+			"name": "Gamer (Derogatory)",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Demon Gamer",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/46.png"
+			}
+		},
+		{
+			"name": "Media Consumer",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Basic Creature — Cat Gamer",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/47.png"
+			}
+		},
+		{
+			"name": "Schrödinger's Catgirl",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cat Gamer",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/48.png"
+			}
+		},
+		{
+			"name": "Girl Failure",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Gamer",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/49.png"
+			}
+		},
+		{
+			"name": "Cryptobro",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/50.png"
+			}
+		},
+		{
+			"name": "Roguelike Adventurer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Demon Rogue",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/51.png"
+			}
+		},
+		{
+			"name": "Slop Consumer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Boar",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/52.png"
+			}
+		},
+		{
+			"name": "Paid Sponsor",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/53.png"
+			}
+		},
+		{
+			"name": "Unalive",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/54.png"
+			}
+		},
+		{
+			"name": "Bad to the Bone",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/55.png"
+			}
+		},
+		{
+			"name": "Actual Shitposter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Gamer",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/56.png"
+			}
+		},
+		{
+			"name": "Burninate",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/57.png"
+			}
+		},
+		{
+			"name": "Do a Little Trolling",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/58.png"
+			}
+		},
+		{
+			"name": "Festival Priestess",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Elite Creature — Human Monk",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/59.png"
+			}
+		},
+		{
+			"name": "Fumble a Baddie",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/60.png"
+			}
+		},
+		{
+			"name": "Insane Troll Logic",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/61.png"
+			}
+		},
+		{
+			"name": "Isekai Maiden",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Demon Knight",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/62.png"
+			}
+		},
+		{
+			"name": "Mucho Texto",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/63.png"
+			}
+		},
+		{
+			"name": "Techno Viking",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Bird Barbarian",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/64.png"
+			}
+		},
+		{
+			"name": "Down Bad",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/65.png"
+			}
+		},
+		{
+			"name": "IPad Baby",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Child Nightmare",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/66.png"
+			}
+		},
+		{
+			"name": "First!",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/67.png"
+			}
+		},
+		{
+			"name": "First Person Shooter",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Bird Rogue",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/68.png"
+			}
+		},
+		{
+			"name": "Keyboard Warrior",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Demon Warrior",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/69.png"
+			}
+		},
+		{
+			"name": "Edgelord",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Demon Warrior",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/70.png"
+			}
+		},
+		{
+			"name": "Chicken Jockey",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Horror Bird",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/71.png"
+			}
+		},
+		{
+			"name": "Silly Little Guy",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Gremlin Berserker",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/72.png"
+			}
+		},
+		{
+			"name": "Chūnibyō Weeb",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon Child",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/73.png"
+			}
+		},
+		{
+			"name": "Face Eating Leopard",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Cat Advisor",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/74.png"
+			}
+		},
+		{
+			"name": "Tumblr Sexyman",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Basic Creature — Human Performer",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/75.png"
+			}
+		},
+		{
+			"name": "Girldinner",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/76.png"
+			}
+		},
+		{
+			"name": "Big if True",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/77.png"
+			}
+		},
+		{
+			"name": "Touch Grass",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/78.png"
+			}
+		},
+		{
+			"name": "Defluencing",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/79.png"
+			}
+		},
+		{
+			"name": "Squatting друг",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cat Rogue",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/80.png"
+			}
+		},
+		{
+			"name": "Wholesome Pupperino",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dog",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/81.png"
+			}
+		},
+		{
+			"name": "Elf Insert",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Basic Creature — Elf Peasant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/82.png"
+			}
+		},
+		{
+			"name": "La Creatura",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Criatura — Horror Insecto",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/83.png"
+			}
+		},
+		{
+			"name": "The Wolf Inside",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/84.png"
+			}
+		},
+		{
+			"name": "Forum Troll",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Troll Gamer",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/85.png"
+			}
+		},
+		{
+			"name": "Obvious Plant",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/86.png"
+			}
+		},
+		{
+			"name": "Geo Guesser",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Crocodile",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/87.png"
+			}
+		},
+		{
+			"name": "Hypebeast",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Fox Beast",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/88.png"
+			}
+		},
+		{
+			"name": "Firebomb a Walmart",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/89.png"
+			}
+		},
+		{
+			"name": "Juan.",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Horse",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/90.png"
+			}
+		},
+		{
+			"name": "Interior Crocodile Alligator",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Crocodile Alligator",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/91.png"
+			}
+		},
+		{
+			"name": "Washed Goat",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Goat",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/92.png"
+			}
+		},
+		{
+			"name": "Woke Dog",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Creature — Dog",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/93.png"
+			}
+		},
+		{
+			"name": "Jane Metroidvania",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dragon Insect Bard",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/94.png"
+			}
+		},
+		{
+			"name": "Gone to Brazil",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/95.png"
+			}
+		},
+		{
+			"name": "Snow Halation",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Snow Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/96.png"
+			}
+		},
+		{
+			"name": "Professional Moderator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/97.png"
+			}
+		},
+		{
+			"name": "Vibe Check",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/98.png"
+			}
+		},
+		{
+			"name": "Horny Jail",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/99.png"
+			}
+		},
+		{
+			"name": "Simp",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Demon Praetor",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/100.png"
+			}
+		},
+		{
+			"name": "Quirked up White Boy",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/101.png"
+			}
+		},
+		{
+			"name": "Fanum Tax",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/102.png"
+			}
+		},
+		{
+			"name": "A Real One",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Cat Gamer",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/103.png"
+			}
+		},
+		{
+			"name": "Dandere",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment Creature — Saga",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/104.png"
+			}
+		},
+		{
+			"name": "Art Mama",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Artist",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/105.png"
+			}
+		},
+		{
+			"name": "Nothing ever Happens",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/106.png"
+			}
+		},
+		{
+			"name": "Animutation",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/107.png"
+			}
+		},
+		{
+			"name": "Crack Pairing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/108.png"
+			}
+		},
+		{
+			"name": "Ted, the Talker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Doctor",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/109.png"
+			}
+		},
+		{
+			"name": "Spelln't",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/110.png"
+			}
+		},
+		{
+			"name": "Head Out",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/111.png"
+			}
+		},
+		{
+			"name": "Uno Reverse Card",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/112.png"
+			}
+		},
+		{
+			"name": "Install Wizard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Construct Wizard",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/113.png"
+			}
+		},
+		{
+			"name": "Game Theorist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Angel Gamer",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/114.png"
+			}
+		},
+		{
+			"name": "Kuudere",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Enchantment Creature — Saga",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/115.png"
+			}
+		},
+		{
+			"name": "Rig Papa",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Fox Rigger",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/116.png"
+			}
+		},
+		{
+			"name": "Epic Fail",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/117.png"
+			}
+		},
+		{
+			"name": "Nothing Personel Kid",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/118.png"
+			}
+		},
+		{
+			"name": "Pyramid Schemer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Sphinx Advisor",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/119.png"
+			}
+		},
+		{
+			"name": "Soyjack",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Bird Peasant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/120.png"
+			}
+		},
+		{
+			"name": "Yandere",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment Creature — Saga",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/121.png"
+			}
+		},
+		{
+			"name": "Totally Xtreme",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/122.png"
+			}
+		},
+		{
+			"name": "Shadow Wizard Money Gang",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Slug Minion Wizard",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/123.png"
+			}
+		},
+		{
+			"name": "Collection Scalper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Moonfolk Advisor",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/124.png"
+			}
+		},
+		{
+			"name": "Real Hater",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/125.png"
+			}
+		},
+		{
+			"name": "Shounen Protagonist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/126.png"
+			}
+		},
+		{
+			"name": "Go Live",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/127.png"
+			}
+		},
+		{
+			"name": "Stream Sniper",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Spirit Gamer",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/128.png"
+			}
+		},
+		{
+			"name": "Delet This",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/129.png"
+			}
+		},
+		{
+			"name": "Parking Lot Brawler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/130.png"
+			}
+		},
+		{
+			"name": "Yeet",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/131.png"
+			}
+		},
+		{
+			"name": "Become Ungovernable",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/132.png"
+			}
+		},
+		{
+			"name": "Goblin Mode",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/133.png"
+			}
+		},
+		{
+			"name": "Challenge Runner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Gremlin Assassin",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/134.png"
+			}
+		},
+		{
+			"name": "Deep Fry",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/135.png"
+			}
+		},
+		{
+			"name": "Boomer Shooter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Spirit Berserker",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/136.png"
+			}
+		},
+		{
+			"name": "Min Maxer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct Gamer",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/137.png"
+			}
+		},
+		{
+			"name": "Tsundere",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment Creature — Saga",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/138.png"
+			}
+		},
+		{
+			"name": "Mewing Streak",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/139.png"
+			}
+		},
+		{
+			"name": "Chug Jug",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/140.png"
+			}
+		},
+		{
+			"name": "Far Even as Decided",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/141.png"
+			}
+		},
+		{
+			"name": "Swole",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Instant",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/142.png"
+			}
+		},
+		{
+			"name": "Sigma Grinder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Orc Advisor",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/143.png"
+			}
+		},
+		{
+			"name": "Vine Boom",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/144.png"
+			}
+		},
+		{
+			"name": "Heckin' Chonker",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Giant Fox",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/145.png"
+			}
+		},
+		{
+			"name": "Gigachad",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/146.png"
+			}
+		},
+		{
+			"name": "Powerscaler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Ranger",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/147.png"
+			}
+		},
+		{
+			"name": "Deredere",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment Creature — Saga",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/148.png"
+			}
+		},
+		{
+			"name": "Leave no Crumbs",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/149.png"
+			}
+		},
+		{
+			"name": "A Cruel Angel's Thesis",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/150.png"
+			}
+		},
+		{
+			"name": "True Name User",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/151.png"
+			}
+		},
+		{
+			"name": "Magus of Despacito",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Gremlin Demon Performer",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/152.png"
+			}
+		},
+		{
+			"name": "Supreme Admin",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/153.png"
+			}
+		},
+		{
+			"name": "Data Scrapper",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Mutant Detective",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/154.png"
+			}
+		},
+		{
+			"name": "Map Painter",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/155.png"
+			}
+		},
+		{
+			"name": "Kamioshi",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Creature — Dog God",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/156.png"
+			}
+		},
+		{
+			"name": "Turn into a Pickle",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/157.png"
+			}
+		},
+		{
+			"name": "Content Creator",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Employee",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/158.png"
+			}
+		},
+		{
+			"name": "It's Rewind Time",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/159.png"
+			}
+		},
+		{
+			"name": "Clever Cyberpunk",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/160.png"
+			}
+		},
+		{
+			"name": "Quantum Rizzler",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Harpy Dragon",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/161.png"
+			}
+		},
+		{
+			"name": "Beyond Belief",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/162.png"
+			}
+		},
+		{
+			"name": "Stan",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/163.png"
+			}
+		},
+		{
+			"name": "Refuse to Elaborate",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/164.png"
+			}
+		},
+		{
+			"name": "The Bart Ender",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Rabbit Assassin",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/165.png"
+			}
+		},
+		{
+			"name": "The Man Behind the Slaughter",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Artifact Creature — Animatronic",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/166.png"
+			}
+		},
+		{
+			"name": "Dealer of Loss",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Creature — Angel",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/167.png"
+			}
+		},
+		{
+			"name": "The Shareholders",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Horror Advisor",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/168.png"
+			}
+		},
+		{
+			"name": "Major Skill Issue",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Demon Villain",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/169.png"
+			}
+		},
+		{
+			"name": "Goncharov",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Bird",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/170.png"
+			}
+		},
+		{
+			"name": "Fukua, Hellrider",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/171.png"
+			}
+		},
+		{
+			"name": "L33T H4XX",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/172.png"
+			}
+		},
+		{
+			"name": "Speedrunner",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Whale Pilot",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/173.png"
+			}
+		},
+		{
+			"name": "The Entire Bee Movie Script",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/174.png"
+			}
+		},
+		{
+			"name": "Revengeance Status",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/175.png"
+			}
+		},
+		{
+			"name": "Let's Play",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/176.png"
+			}
+		},
+		{
+			"name": "Memelord",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon Gamer",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/177.png"
+			}
+		},
+		{
+			"name": "Aura Farmer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dragon Peasant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/178.png"
+			}
+		},
+		{
+			"name": "My Turn on the Xbox",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/179.png"
+			}
+		},
+		{
+			"name": "Dat Boi",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Frog",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/180.png"
+			}
+		},
+		{
+			"name": "Somebody Once Told Me",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/181.png"
+			}
+		},
+		{
+			"name": "Absolute Unit",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/182.png"
+			}
+		},
+		{
+			"name": "Jungle Champion",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Gamer",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/183.png"
+			}
+		},
+		{
+			"name": "Big Chungus",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Rabbit",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/184.png"
+			}
+		},
+		{
+			"name": "Nothing Without You",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}",
+			"type": "World Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/185.png"
+			}
+		},
+		{
+			"name": "Nostalgia Critic",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Performer",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/186.png"
+			}
+		},
+		{
+			"name": "Organizer of the Symposium",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Human Villain",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/187.png"
+			}
+		},
+		{
+			"name": "Epicsauce",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/188.png"
+			}
+		},
+		{
+			"name": "Lock In",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/189.png"
+			}
+		},
+		{
+			"name": "Sorin Markov Chain",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/190.png"
+			}
+		},
+		{
+			"name": "Gacha Whale",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Whale Guest",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/191.png"
+			}
+		},
+		{
+			"name": "Dog of Wisdom",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dog",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/192.png"
+			}
+		},
+		{
+			"name": "Baby Grok",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Giant Child",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/193.png"
+			}
+		},
+		{
+			"name": "Primordial Hag",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elder Dinosaur Hag",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/194.png"
+			}
+		},
+		{
+			"name": "Like",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/195.png"
+			}
+		},
+		{
+			"name": "Forgor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/196.png"
+			}
+		},
+		{
+			"name": "Cope",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/197.png"
+			}
+		},
+		{
+			"name": "Smash",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/198.png"
+			}
+		},
+		{
+			"name": "True",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/199.png"
+			}
+		},
+		{
+			"name": "Block",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/200.png"
+			}
+		},
+		{
+			"name": "Virgin",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/201.png"
+			}
+		},
+		{
+			"name": "Drag",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/202.png"
+			}
+		},
+		{
+			"name": "Meet",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/203.png"
+			}
+		},
+		{
+			"name": "H.R.T",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/204.png"
+			}
+		},
+		{
+			"name": "Facts",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/205.png"
+			}
+		},
+		{
+			"name": "C.B.T",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/206.png"
+			}
+		},
+		{
+			"name": "Debut",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/207.png"
+			}
+		},
+		{
+			"name": "Rick",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/208.png"
+			}
+		},
+		{
+			"name": "Submissive",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/209.png"
+			}
+		},
+		{
+			"name": "Cringe",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/210.png"
+			}
+		},
+		{
+			"name": "Netflix",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Room",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/211.png"
+			}
+		},
+		{
+			"name": "Flop",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/212.png"
+			}
+		},
+		{
+			"name": "Cooking",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/213.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/214.png"
+			}
+		},
+		{
+			"name": "Spambot",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/215.png"
+			}
+		},
+		{
+			"name": "Donowall",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/216.png"
+			}
+		},
+		{
+			"name": "Marketable Plushie",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Toy",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/217.png"
+			}
+		},
+		{
+			"name": "Merch Drop",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/218.png"
+			}
+		},
+		{
+			"name": "Second Monitor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/219.png"
+			}
+		},
+		{
+			"name": "ROFLcopter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/220.png"
+			}
+		},
+		{
+			"name": "Doomscroll",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/221.png"
+			}
+		},
+		{
+			"name": "Skibidi Toilet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/222.png"
+			}
+		},
+		{
+			"name": "Dakimakura",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Enchantment — Equipment Aura",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/223.png"
+			}
+		},
+		{
+			"name": "Drifting Itasha",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/224.png"
+			}
+		},
+		{
+			"name": "Content Farm",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land — Fortification",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/225.png"
+			}
+		},
+		{
+			"name": "Dogwater Bay",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/226.png"
+			}
+		},
+		{
+			"name": "Gamer Nation",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/227.png"
+			}
+		},
+		{
+			"name": "Backrooms",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/228.png"
+			}
+		},
+		{
+			"name": "SCP Site",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/229.png"
+			}
+		},
+		{
+			"name": "Patreon Gallery",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land Enchantment — Aura",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/230.png"
+			}
+		},
+		{
+			"name": "Ohio",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/231.png"
+			}
+		},
+		{
+			"name": "Liminal Space",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/232.png"
+			}
+		},
+		{
+			"name": "Hawk 2A",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/233.png"
+			}
+		},
+		{
+			"name": "Ram Ranch",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "World Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/234.png"
+			}
+		},
+		{
+			"name": "Gooncave",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land Creature — Minion",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/235.png"
+			}
+		},
+		{
+			"name": "Banhammer",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/236.png"
+			}
+		},
+		{
+			"name": "Rockefeller Street",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/237.png"
+			}
+		},
+		{
+			"name": "Political Compass",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/238.png"
+			}
+		},
+		{
+			"name": "Magic Comprehensive Rules",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact Enchantment",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/239.png"
+			}
+		},
+		{
+			"name": "Time Cube",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/240.png"
+			}
+		},
+		{
+			"name": "Phil Mahar",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/241.png"
+			}
+		},
+		{
+			"name": "Everywhere, at End of Time",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "World Land",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/242.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/243.png"
+			}
+		},
+		{
+			"name": "Torment Nexus",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Chumbeque/sets/LoL-files/img/244.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 A Cruel Angel's Thesis
+	2 True Name User
+	2 Magus of Despacito
+	2 Supreme Admin
+	2 Data Scrapper
+	2 Map Painter
+	1 Kamioshi
+	2 Turn into a Pickle
+	2 Content Creator
+	2 It's Rewind Time
+	2 Clever Cyberpunk
+	2 Quantum Rizzler
+	2 Beyond Belief
+	2 Stan
+	2 Refuse to Elaborate
+	2 The Bart Ender
+	2 The Man Behind the Slaughter
+	2 Dealer of Loss
+	2 The Shareholders
+	2 Major Skill Issue
+	2 Goncharov
+	2 Fukua, Hellrider
+	2 L33T H4XX
+	2 Speedrunner
+	2 The Entire Bee Movie Script
+	2 Revengeance Status
+	2 Let's Play
+	2 Memelord
+	2 Aura Farmer
+	2 My Turn on the Xbox
+	2 Dat Boi
+	2 Somebody Once Told Me
+	2 Absolute Unit
+	2 Jungle Champion
+	2 Big Chungus
+	1 Nothing Without You
+	2 Nostalgia Critic
+	1 Organizer of the Symposium
+	1 Epicsauce
+	1 Lock In
+	1 Sorin Markov Chain
+	1 Gacha Whale
+	1 Dog of Wisdom
+	1 Baby Grok
+	1 Primordial Hag
+	2 Facts
+	2 C.B.T
+	2 Debut
+	2 Rick
+	2 Submissive
+	2 Cringe
+	2 Netflix
+	2 Flop
+	2 Cooking
+	2 Copy
+	2 Ohio
+	2 Liminal Space
+	2 Hawk 2A
+	2 Ram Ranch
+	2 Gooncave
+	2 Banhammer
+	2 Rockefeller Street
+	2 Political Compass
+	1 Magic Comprehensive Rules
+	1 Time Cube
+	1 Phil Mahar
+	1 Everywhere, at End of Time
+	1 Torment Nexus
+[uncommon(3)]
+	4 Chūnibyō Weeb
+	4 Gone to Brazil
+	4 Snow Halation
+	4 Professional Moderator
+	4 Vibe Check
+	4 Horny Jail
+	4 Simp
+	4 Quirked up White Boy
+	4 Fanum Tax
+	4 A Real One
+	4 Dandere
+	4 Art Mama
+	4 Nothing ever Happens
+	4 Animutation
+	4 Crack Pairing
+	4 Ted, the Talker
+	4 Spelln't
+	4 Head Out
+	4 Uno Reverse Card
+	4 Install Wizard
+	4 Game Theorist
+	4 Kuudere
+	4 Rig Papa
+	4 Epic Fail
+	4 Nothing Personel Kid
+	4 Pyramid Schemer
+	4 Soyjack
+	4 Yandere
+	4 Totally Xtreme
+	4 Shadow Wizard Money Gang
+	4 Collection Scalper
+	4 Real Hater
+	4 Shounen Protagonist
+	4 Go Live
+	4 Stream Sniper
+	4 Delet This
+	4 Parking Lot Brawler
+	4 Yeet
+	4 Become Ungovernable
+	4 Goblin Mode
+	4 Challenge Runner
+	4 Deep Fry
+	4 Boomer Shooter
+	4 Tsundere
+	4 Mewing Streak
+	4 Chug Jug
+	4 Far Even as Decided
+	4 Swole
+	4 Sigma Grinder
+	4 Vine Boom
+	4 Heckin' Chonker
+	4 Gigachad
+	4 Powerscaler
+	4 Deredere
+	4 Leave no Crumbs
+	4 Like
+	4 Forgor
+	4 Cope
+	4 Smash
+	4 True
+	4 Block
+	4 Virgin
+	4 Drag
+	4 Meet
+	4 H.R.T
+	4 Second Monitor
+	4 ROFLcopter
+	4 Skibidi Toilet
+	4 Dakimakura
+	4 Drifting Itasha
+	4 Dogwater Bay
+	4 Gamer Nation
+	4 Backrooms
+	4 SCP Site
+	4 Patreon Gallery
+[common(6)]
+	8 Gyatt
+	8 Change da World
+	8 Dab
+	8 Idol Meeting
+	8 Unsung Hero
+	8 Ice Cream Vendor
+	8 PeNgU1N oF d00m
+	8 Slayin' Queen
+	8 Vtuber Unicorn
+	8 Glaze
+	8 Task Manager
+	8 Lorewriter
+	8 Gamers Rise Up
+	8 Podcast Listener
+	8 Cinema
+	8 Jxb Application
+	8 Influencer
+	8 Seiso Idol
+	8 
+	8 Put the Fries in the Bag
+	8 Gynoid Combatant
+	8 Clickbait
+	8 Free Bird
+	8 Parasocial Streamer
+	8 Stun Snidd
+	8 Vtuber Manager
+	8 Yassify
+	8 All According to Keikaku
+	8 Sketchy Rakugaki
+	8 Blogger
+	8 Six Seven
+	8 Cancelled
+	8 Tralalero Tralala
+	8 Ponder the Orb
+	8 Slide into DMs
+	8 Sandbox Gamer
+	8 Twink Death
+	8 Brainrot
+	8 Become Uncanny
+	8 Discord Kitten
+	8 Bruh Moment
+	8 Drip
+	8 Eat Hot Chip and Lie
+	8 I Lived
+	8 Gamer (Derogatory)
+	8 Schrödinger's Catgirl
+	8 Girl Failure
+	8 Cryptobro
+	8 Roguelike Adventurer
+	8 Slop Consumer
+	8 Paid Sponsor
+	8 Unalive
+	8 Bad to the Bone
+	8 Actual Shitposter
+	8 Burninate
+	8 Do a Little Trolling
+	8 Festival Priestess
+	8 Fumble a Baddie
+	8 Insane Troll Logic
+	8 Isekai Maiden
+	8 Mucho Texto
+	8 Techno Viking
+	8 Down Bad
+	8 IPad Baby
+	8 First!
+	8 First Person Shooter
+	8 Keyboard Warrior
+	8 Edgelord
+	8 Chicken Jockey
+	8 Silly Little Guy
+	8 Face Eating Leopard
+	8 Girldinner
+	8 Big if True
+	8 Touch Grass
+	8 Defluencing
+	8 Squatting друг
+	8 Wholesome Pupperino
+	8 La Creatura
+	8 The Wolf Inside
+	8 Forum Troll
+	8 Obvious Plant
+	8 Geo Guesser
+	8 Hypebeast
+	8 Firebomb a Walmart
+	8 Juan.
+	8 Interior Crocodile Alligator
+	8 Washed Goat
+	8 Woke Dog
+	8 Jane Metroidvania
+	8 Min Maxer
+	8 Spambot
+	8 Donowall
+	8 Marketable Plushie
+	8 Merch Drop
+	8 Doomscroll
+	8 Content Farm
+[common | masterpiece(1)]
+	8 Gyatt
+	8 Change da World
+	8 Dab
+	8 Idol Meeting
+	8 Unsung Hero
+	8 Ice Cream Vendor
+	8 PeNgU1N oF d00m
+	8 Slayin' Queen
+	8 Vtuber Unicorn
+	8 Glaze
+	8 Task Manager
+	8 Lorewriter
+	8 Gamers Rise Up
+	8 Podcast Listener
+	8 Cinema
+	8 Jxb Application
+	8 Influencer
+	8 Seiso Idol
+	8 
+	8 Put the Fries in the Bag
+	8 Gynoid Combatant
+	8 Clickbait
+	8 Free Bird
+	8 Parasocial Streamer
+	8 Stun Snidd
+	8 Vtuber Manager
+	8 Yassify
+	8 All According to Keikaku
+	8 Sketchy Rakugaki
+	8 Blogger
+	8 Six Seven
+	8 Cancelled
+	8 Tralalero Tralala
+	8 Ponder the Orb
+	8 Slide into DMs
+	8 Sandbox Gamer
+	8 Twink Death
+	8 Brainrot
+	8 Become Uncanny
+	8 Discord Kitten
+	8 Bruh Moment
+	8 Drip
+	8 Eat Hot Chip and Lie
+	8 I Lived
+	8 Gamer (Derogatory)
+	8 Schrödinger's Catgirl
+	8 Girl Failure
+	8 Cryptobro
+	8 Roguelike Adventurer
+	8 Slop Consumer
+	8 Paid Sponsor
+	8 Unalive
+	8 Bad to the Bone
+	8 Actual Shitposter
+	8 Burninate
+	8 Do a Little Trolling
+	8 Festival Priestess
+	8 Fumble a Baddie
+	8 Insane Troll Logic
+	8 Isekai Maiden
+	8 Mucho Texto
+	8 Techno Viking
+	8 Down Bad
+	8 IPad Baby
+	8 First!
+	8 First Person Shooter
+	8 Keyboard Warrior
+	8 Edgelord
+	8 Chicken Jockey
+	8 Silly Little Guy
+	8 Face Eating Leopard
+	8 Girldinner
+	8 Big if True
+	8 Touch Grass
+	8 Defluencing
+	8 Squatting друг
+	8 Wholesome Pupperino
+	8 La Creatura
+	8 The Wolf Inside
+	8 Forum Troll
+	8 Obvious Plant
+	8 Geo Guesser
+	8 Hypebeast
+	8 Firebomb a Walmart
+	8 Juan.
+	8 Interior Crocodile Alligator
+	8 Washed Goat
+	8 Woke Dog
+	8 Jane Metroidvania
+	8 Min Maxer
+	8 Spambot
+	8 Donowall
+	8 Marketable Plushie
+	8 Merch Drop
+	8 Doomscroll
+	8 Content Farm
+[foil(1)]
+	12 Gyatt
+	12 Change da World
+	12 Dab
+	12 Idol Meeting
+	12 Unsung Hero
+	12 Ice Cream Vendor
+	12 PeNgU1N oF d00m
+	12 Slayin' Queen
+	12 Vtuber Unicorn
+	12 Glaze
+	12 Task Manager
+	12 Lorewriter
+	12 Gamers Rise Up
+	12 Podcast Listener
+	12 Cinema
+	12 Jxb Application
+	12 Influencer
+	12 Seiso Idol
+	12 
+	12 Put the Fries in the Bag
+	12 Gynoid Combatant
+	12 Clickbait
+	12 Free Bird
+	12 Parasocial Streamer
+	12 Stun Snidd
+	12 Vtuber Manager
+	12 Yassify
+	12 All According to Keikaku
+	12 Sketchy Rakugaki
+	12 Blogger
+	12 Six Seven
+	12 Cancelled
+	12 Tralalero Tralala
+	12 Ponder the Orb
+	12 Slide into DMs
+	12 Sandbox Gamer
+	12 Twink Death
+	12 Brainrot
+	12 Become Uncanny
+	12 Discord Kitten
+	12 Bruh Moment
+	12 Drip
+	12 Eat Hot Chip and Lie
+	12 I Lived
+	12 Gamer (Derogatory)
+	12 Schrödinger's Catgirl
+	12 Girl Failure
+	12 Cryptobro
+	12 Roguelike Adventurer
+	12 Slop Consumer
+	12 Paid Sponsor
+	12 Unalive
+	12 Bad to the Bone
+	12 Actual Shitposter
+	12 Burninate
+	12 Do a Little Trolling
+	12 Festival Priestess
+	12 Fumble a Baddie
+	12 Insane Troll Logic
+	12 Isekai Maiden
+	12 Mucho Texto
+	12 Techno Viking
+	12 Down Bad
+	12 IPad Baby
+	12 First!
+	12 First Person Shooter
+	12 Keyboard Warrior
+	12 Edgelord
+	12 Chicken Jockey
+	12 Silly Little Guy
+	6 Chūnibyō Weeb
+	12 Face Eating Leopard
+	12 Girldinner
+	12 Big if True
+	12 Touch Grass
+	12 Defluencing
+	12 Squatting друг
+	12 Wholesome Pupperino
+	12 La Creatura
+	12 The Wolf Inside
+	12 Forum Troll
+	12 Obvious Plant
+	12 Geo Guesser
+	12 Hypebeast
+	12 Firebomb a Walmart
+	12 Juan.
+	12 Interior Crocodile Alligator
+	12 Washed Goat
+	12 Woke Dog
+	12 Jane Metroidvania
+	6 Gone to Brazil
+	6 Snow Halation
+	6 Professional Moderator
+	6 Vibe Check
+	6 Horny Jail
+	6 Simp
+	6 Quirked up White Boy
+	6 Fanum Tax
+	6 A Real One
+	6 Dandere
+	6 Art Mama
+	6 Nothing ever Happens
+	6 Animutation
+	6 Crack Pairing
+	6 Ted, the Talker
+	6 Spelln't
+	6 Head Out
+	6 Uno Reverse Card
+	6 Install Wizard
+	6 Game Theorist
+	6 Kuudere
+	6 Rig Papa
+	6 Epic Fail
+	6 Nothing Personel Kid
+	6 Pyramid Schemer
+	6 Soyjack
+	6 Yandere
+	6 Totally Xtreme
+	6 Shadow Wizard Money Gang
+	6 Collection Scalper
+	6 Real Hater
+	6 Shounen Protagonist
+	6 Go Live
+	6 Stream Sniper
+	6 Delet This
+	6 Parking Lot Brawler
+	6 Yeet
+	6 Become Ungovernable
+	6 Goblin Mode
+	6 Challenge Runner
+	6 Deep Fry
+	6 Boomer Shooter
+	12 Min Maxer
+	6 Tsundere
+	6 Mewing Streak
+	6 Chug Jug
+	6 Far Even as Decided
+	6 Swole
+	6 Sigma Grinder
+	6 Vine Boom
+	6 Heckin' Chonker
+	6 Gigachad
+	6 Powerscaler
+	6 Deredere
+	6 Leave no Crumbs
+	2 A Cruel Angel's Thesis
+	2 True Name User
+	2 Magus of Despacito
+	2 Supreme Admin
+	2 Data Scrapper
+	2 Map Painter
+	1 Kamioshi
+	2 Turn into a Pickle
+	2 Content Creator
+	2 It's Rewind Time
+	2 Clever Cyberpunk
+	2 Quantum Rizzler
+	2 Beyond Belief
+	2 Stan
+	2 Refuse to Elaborate
+	2 The Bart Ender
+	2 The Man Behind the Slaughter
+	2 Dealer of Loss
+	2 The Shareholders
+	2 Major Skill Issue
+	2 Goncharov
+	2 Fukua, Hellrider
+	2 L33T H4XX
+	2 Speedrunner
+	2 The Entire Bee Movie Script
+	2 Revengeance Status
+	2 Let's Play
+	2 Memelord
+	2 Aura Farmer
+	2 My Turn on the Xbox
+	2 Dat Boi
+	2 Somebody Once Told Me
+	2 Absolute Unit
+	2 Jungle Champion
+	2 Big Chungus
+	1 Nothing Without You
+	2 Nostalgia Critic
+	1 Organizer of the Symposium
+	1 Epicsauce
+	1 Lock In
+	1 Sorin Markov Chain
+	1 Gacha Whale
+	1 Dog of Wisdom
+	1 Baby Grok
+	1 Primordial Hag
+	6 Like
+	6 Forgor
+	6 Cope
+	6 Smash
+	6 True
+	6 Block
+	6 Virgin
+	6 Drag
+	6 Meet
+	6 H.R.T
+	2 Facts
+	2 C.B.T
+	2 Debut
+	2 Rick
+	2 Submissive
+	2 Cringe
+	2 Netflix
+	2 Flop
+	2 Cooking
+	2 Copy
+	12 Spambot
+	12 Donowall
+	12 Marketable Plushie
+	12 Merch Drop
+	6 Second Monitor
+	6 ROFLcopter
+	12 Doomscroll
+	6 Skibidi Toilet
+	6 Dakimakura
+	6 Drifting Itasha
+	12 Content Farm
+	6 Dogwater Bay
+	6 Gamer Nation
+	6 Backrooms
+	6 SCP Site
+	6 Patreon Gallery
+	2 Ohio
+	2 Liminal Space
+	2 Hawk 2A
+	2 Ram Ranch
+	2 Gooncave
+	2 Banhammer
+	2 Rockefeller Street
+	2 Political Compass
+	1 Magic Comprehensive Rules
+	1 Time Cube
+	1 Phil Mahar
+	1 Everywhere, at End of Time
+	1 Torment Nexus
+[wildcard(1)]
+	6 Gyatt
+	6 Change da World
+	6 Dab
+	6 Idol Meeting
+	6 Unsung Hero
+	6 Ice Cream Vendor
+	6 PeNgU1N oF d00m
+	6 Slayin' Queen
+	6 Vtuber Unicorn
+	6 Glaze
+	6 Task Manager
+	6 Lorewriter
+	6 Gamers Rise Up
+	6 Podcast Listener
+	6 Cinema
+	6 Jxb Application
+	6 Influencer
+	6 Seiso Idol
+	6 
+	6 Put the Fries in the Bag
+	6 Gynoid Combatant
+	6 Clickbait
+	6 Free Bird
+	6 Parasocial Streamer
+	6 Stun Snidd
+	6 Vtuber Manager
+	6 Yassify
+	6 All According to Keikaku
+	6 Sketchy Rakugaki
+	6 Blogger
+	6 Six Seven
+	6 Cancelled
+	6 Tralalero Tralala
+	6 Ponder the Orb
+	6 Slide into DMs
+	6 Sandbox Gamer
+	6 Twink Death
+	6 Brainrot
+	6 Become Uncanny
+	6 Discord Kitten
+	6 Bruh Moment
+	6 Drip
+	6 Eat Hot Chip and Lie
+	6 I Lived
+	6 Gamer (Derogatory)
+	6 Schrödinger's Catgirl
+	6 Girl Failure
+	6 Cryptobro
+	6 Roguelike Adventurer
+	6 Slop Consumer
+	6 Paid Sponsor
+	6 Unalive
+	6 Bad to the Bone
+	6 Actual Shitposter
+	6 Burninate
+	6 Do a Little Trolling
+	6 Festival Priestess
+	6 Fumble a Baddie
+	6 Insane Troll Logic
+	6 Isekai Maiden
+	6 Mucho Texto
+	6 Techno Viking
+	6 Down Bad
+	6 IPad Baby
+	6 First!
+	6 First Person Shooter
+	6 Keyboard Warrior
+	6 Edgelord
+	6 Chicken Jockey
+	6 Silly Little Guy
+	15 Chūnibyō Weeb
+	6 Face Eating Leopard
+	6 Girldinner
+	6 Big if True
+	6 Touch Grass
+	6 Defluencing
+	6 Squatting друг
+	6 Wholesome Pupperino
+	6 La Creatura
+	6 The Wolf Inside
+	6 Forum Troll
+	6 Obvious Plant
+	6 Geo Guesser
+	6 Hypebeast
+	6 Firebomb a Walmart
+	6 Juan.
+	6 Interior Crocodile Alligator
+	6 Washed Goat
+	6 Woke Dog
+	6 Jane Metroidvania
+	15 Gone to Brazil
+	15 Snow Halation
+	15 Professional Moderator
+	15 Vibe Check
+	15 Horny Jail
+	15 Simp
+	15 Quirked up White Boy
+	15 Fanum Tax
+	15 A Real One
+	15 Dandere
+	15 Art Mama
+	15 Nothing ever Happens
+	15 Animutation
+	15 Crack Pairing
+	15 Ted, the Talker
+	15 Spelln't
+	15 Head Out
+	15 Uno Reverse Card
+	15 Install Wizard
+	15 Game Theorist
+	15 Kuudere
+	15 Rig Papa
+	15 Epic Fail
+	15 Nothing Personel Kid
+	15 Pyramid Schemer
+	15 Soyjack
+	15 Yandere
+	15 Totally Xtreme
+	15 Shadow Wizard Money Gang
+	15 Collection Scalper
+	15 Real Hater
+	15 Shounen Protagonist
+	15 Go Live
+	15 Stream Sniper
+	15 Delet This
+	15 Parking Lot Brawler
+	15 Yeet
+	15 Become Ungovernable
+	15 Goblin Mode
+	15 Challenge Runner
+	15 Deep Fry
+	15 Boomer Shooter
+	6 Min Maxer
+	15 Tsundere
+	15 Mewing Streak
+	15 Chug Jug
+	15 Far Even as Decided
+	15 Swole
+	15 Sigma Grinder
+	15 Vine Boom
+	15 Heckin' Chonker
+	15 Gigachad
+	15 Powerscaler
+	15 Deredere
+	15 Leave no Crumbs
+	7 A Cruel Angel's Thesis
+	7 True Name User
+	7 Magus of Despacito
+	7 Supreme Admin
+	7 Data Scrapper
+	7 Map Painter
+	4 Kamioshi
+	7 Turn into a Pickle
+	7 Content Creator
+	7 It's Rewind Time
+	7 Clever Cyberpunk
+	7 Quantum Rizzler
+	7 Beyond Belief
+	7 Stan
+	7 Refuse to Elaborate
+	7 The Bart Ender
+	7 The Man Behind the Slaughter
+	7 Dealer of Loss
+	7 The Shareholders
+	7 Major Skill Issue
+	7 Goncharov
+	7 Fukua, Hellrider
+	7 L33T H4XX
+	7 Speedrunner
+	7 The Entire Bee Movie Script
+	7 Revengeance Status
+	7 Let's Play
+	7 Memelord
+	7 Aura Farmer
+	7 My Turn on the Xbox
+	7 Dat Boi
+	7 Somebody Once Told Me
+	7 Absolute Unit
+	7 Jungle Champion
+	7 Big Chungus
+	4 Nothing Without You
+	7 Nostalgia Critic
+	4 Organizer of the Symposium
+	4 Epicsauce
+	4 Lock In
+	4 Sorin Markov Chain
+	4 Gacha Whale
+	4 Dog of Wisdom
+	4 Baby Grok
+	4 Primordial Hag
+	15 Like
+	15 Forgor
+	15 Cope
+	15 Smash
+	15 True
+	15 Block
+	15 Virgin
+	15 Drag
+	15 Meet
+	15 H.R.T
+	7 Facts
+	7 C.B.T
+	7 Debut
+	7 Rick
+	7 Submissive
+	7 Cringe
+	7 Netflix
+	7 Flop
+	7 Cooking
+	7 Copy
+	6 Spambot
+	6 Donowall
+	6 Marketable Plushie
+	6 Merch Drop
+	15 Second Monitor
+	15 ROFLcopter
+	6 Doomscroll
+	15 Skibidi Toilet
+	15 Dakimakura
+	15 Drifting Itasha
+	6 Content Farm
+	15 Dogwater Bay
+	15 Gamer Nation
+	15 Backrooms
+	15 SCP Site
+	15 Patreon Gallery
+	7 Ohio
+	7 Liminal Space
+	7 Hawk 2A
+	7 Ram Ranch
+	7 Gooncave
+	7 Banhammer
+	7 Rockefeller Street
+	7 Political Compass
+	4 Magic Comprehensive Rules
+	4 Time Cube
+	4 Phil Mahar
+	4 Everywhere, at End of Time
+	4 Torment Nexus
